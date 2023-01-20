@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.11
+Name: dentalcare
+Formal-Name: DentalCare
+App-ID: com.example.dentalcare
+Version: 0.0.1
+Home-page: https://example.com/dentalcare
+Download-URL: https://example.com/dentalcare
+Author: Jane Developer
+Author-email: jane@example.com
+Summary: My first application
